@@ -1,0 +1,24 @@
+{
+  "name": "myfigmatoken",
+  "version": "1.0.0",
+  "description": "\"# myfigmatoken\"",
+  "main": "index.js",
+  "dependencies": {
+    "token-transformer": "^0.0.33",
+    "style-dictionary": "^3.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landrik/myfigmatoken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landrik/myfigmatoken/issues"
+  },
+  "homepage": "https://github.com/landrik/myfigmatoken#readme"
+}

@@ -1,0 +1,13 @@
+{
+  "blue": {
+    "value": "#166AAA",
+    "type": "color",
+    "description": "background-color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "Color",
+      "type": "other"
+    }
+  }
+}
